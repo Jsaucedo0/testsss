@@ -1,0 +1,12 @@
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\bin\Debug\JSaucedo5A.exe.config
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\bin\Debug\JSaucedo5A.exe
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\bin\Debug\JSaucedo5A.pdb
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\bin\Debug\JSaucedo5A.xml
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.vbprojAssemblyReference.cache
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.frmMain.resources
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.Resources.resources
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.vbproj.GenerateResource.cache
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.vbproj.CoreCompileInputs.cache
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.exe
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.xml
+C:\Users\jsauc\Desktop\Coding Projs\vb\JaimeSaucedoVBMod5\JSaucedo5A\obj\Debug\JSaucedo5A.pdb
